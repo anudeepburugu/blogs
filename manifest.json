@@ -1,11 +1,11 @@
 {
-    "name": "articles",
-    "short_name": "articles",
+    "name": "blogs",
+    "short_name": "blogs",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Occassionaly I post my blogs here!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
